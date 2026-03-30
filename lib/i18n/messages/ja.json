@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "newNote": "新しいメモ",
+    "settings": "設定",
+    "today": "今日",
+    "previousDay": "前日",
+    "nextDay": "翌日"
+  },
+  "editor": {
+    "placeholder": "書き始めてください…",
+    "save": "保存",
+    "saving": "保存中…",
+    "saved": "保存済み",
+    "preview": "プレビュー",
+    "edit": "編集",
+    "markdownMode": "マークダウン",
+    "richTextMode": "リッチテキスト",
+    "language": "言語",
+    "tags": "タグ",
+    "addTag": "タグを追加…",
+    "wordCount": "{count}語"
+  },
+  "search": {
+    "placeholder": "メモを検索…",
+    "noResults": "結果が見つかりません",
+    "results": "{count}件の結果",
+    "openSearch": "検索を開く"
+  },
+  "tags": {
+    "filterByTag": "タグでフィルター",
+    "clearFilter": "フィルターをクリア",
+    "allNotes": "すべてのメモ"
+  },
+  "settings": {
+    "title": "設定",
+    "theme": "テーマ",
+    "themeLight": "ライト",
+    "themeDark": "ダーク",
+    "themeSystem": "システム",
+    "editorMode": "エディターモード",
+    "defaultLanguage": "デフォルト言語",
+    "storage": "ストレージ",
+    "storageUsed": "{bytes}使用済み",
+    "noteCount": "{count}件のメモ",
+    "clearAll": "すべてのデータを削除",
+    "clearAllConfirm": "本当に削除しますか？すべてのメモと設定が完全に削除されます。",
+    "export": "エクスポート",
+    "import": "インポート",
+    "exportJSON": "JSONでエクスポート",
+    "exportMarkdown": "Markdownでエクスポート",
+    "importFile": "ファイルからインポート",
+    "importMerge": "既存とマージ",
+    "importOverwrite": "既存を上書き"
+  },
+  "ai": {
+    "title": "AIアシスタント",
+    "enable": "AIボットを有効にする",
+    "endpoint": "APIエンドポイント",
+    "model": "モデル",
+    "apiKey": "APIキー",
+    "placeholder": "メモについて質問してください…",
+    "send": "送信",
+    "consentTitle": "AIアシスタントを有効にする前に",
+    "consentBody": "AIアシスタントは、設定したAPIエンドポイントにメモの抜粋を送信します。APIキーはブラウザにのみ保存され、DayNoteのサーバーには送信されません。",
+    "consentAccept": "理解しました、AIを有効にする",
+    "consentCancel": "キャンセル",
+    "thinking": "考えています…",
+    "error": "エラーが発生しました。API設定を確認してください。",
+    "noAnswer": "メモの中に答えを見つけられませんでした。"
+  },
+  "a11y": {
+    "mainContent": "メインコンテンツ",
+    "sidebar": "サイドバー",
+    "noteEditor": "ノートエディター",
+    "noteList": "{date}のメモ",
+    "closeDialog": "閉じる",
+    "saveStatus": "保存状態",
+    "searchResults": "検索結果"
+  },
+  "dates": {
+    "today": "今日",
+    "yesterday": "昨日",
+    "noNotes": "この日のメモはありません",
+    "startWriting": "今日の最初のメモを書き始めましょう"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "newNote": "కొత్త నోట్",
+    "settings": "సెట్టింగులు",
+    "today": "ఈరోజు",
+    "previousDay": "మునుపటి రోజు",
+    "nextDay": "తదుపరి రోజు"
+  },
+  "editor": {
+    "placeholder": "రాయడం ప్రారంభించండి…",
+    "save": "సేవ్ చేయి",
+    "saving": "సేవ్ అవుతోంది…",
+    "saved": "సేవ్ అయింది",
+    "preview": "ప్రివ్యూ",
+    "edit": "సవరించు",
+    "markdownMode": "మార్క్‌డౌన్",
+    "richTextMode": "రిచ్ టెక్స్ట్",
+    "language": "భాష",
+    "tags": "ట్యాగులు",
+    "addTag": "ట్యాగ్ జోడించు…",
+    "wordCount": "{count} పదాలు"
+  },
+  "search": {
+    "placeholder": "నోట్లు వెతకండి…",
+    "noResults": "ఫలితాలు కనుగొనబడలేదు",
+    "results": "{count} ఫలితాలు",
+    "openSearch": "వెతుకు తెరవు"
+  },
+  "tags": {
+    "filterByTag": "ట్యాగ్ ద్వారా వడపోత",
+    "clearFilter": "వడపోత తొలగించు",
+    "allNotes": "అన్ని నోట్లు"
+  },
+  "settings": {
+    "title": "సెట్టింగులు",
+    "theme": "థీమ్",
+    "themeLight": "లైట్",
+    "themeDark": "డార్క్",
+    "themeSystem": "సిస్టమ్",
+    "editorMode": "ఎడిటర్ మోడ్",
+    "defaultLanguage": "డిఫాల్ట్ భాష",
+    "storage": "స్టోరేజ్",
+    "storageUsed": "{bytes} ఉపయోగించబడింది",
+    "noteCount": "{count} నోట్లు",
+    "clearAll": "అన్ని డేటా తొలగించు",
+    "clearAllConfirm": "మీరు నిశ్చితంగా ఉన్నారా? ఇది అన్ని నోట్లు మరియు సెట్టింగులను శాశ్వతంగా తొలగిస్తుంది.",
+    "export": "ఎగుమతి",
+    "import": "దిగుమతి",
+    "exportJSON": "JSON గా ఎగుమతి",
+    "exportMarkdown": "Markdown గా ఎగుమతి",
+    "importFile": "ఫైల్ నుండి దిగుమతి",
+    "importMerge": "ఇప్పటికున్నదానితో విలీనం",
+    "importOverwrite": "ఇప్పటికున్నదాన్ని తొలగించు"
+  },
+  "ai": {
+    "title": "AI సహాయకుడు",
+    "enable": "AI బాట్ ప్రారంభించు",
+    "endpoint": "API ఎండ్‌పాయింట్",
+    "model": "మోడల్",
+    "apiKey": "API కీ",
+    "placeholder": "మీ నోట్ల గురించి ప్రశ్న అడగండి…",
+    "send": "పంపు",
+    "consentTitle": "AI సహాయకుడిని ప్రారంభించే ముందు",
+    "consentBody": "AI సహాయకుడు మీరు కాన్ఫిగర్ చేసిన API ఎండ్‌పాయింట్‌కు మీ నోట్ల సారాంశాలను పంపుతాడు. మీ API కీ మీ బ్రౌజర్‌లో మాత్రమే నిల్వ చేయబడుతుంది.",
+    "consentAccept": "అర్థమైంది, AI ప్రారంభించు",
+    "consentCancel": "రద్దు",
+    "thinking": "ఆలోచిస్తోంది…",
+    "error": "ఏదో తప్పు జరిగింది. మీ API సెట్టింగులు తనిఖీ చేయండి.",
+    "noAnswer": "మీ నోట్లలో సమాధానం కనుగొనలేకపోయాను."
+  },
+  "a11y": {
+    "mainContent": "ప్రధాన కంటెంట్",
+    "sidebar": "సైడ్‌బార్",
+    "noteEditor": "నోట్ ఎడిటర్",
+    "noteList": "{date} నోట్లు",
+    "closeDialog": "మూసివేయి",
+    "saveStatus": "సేవ్ స్థితి",
+    "searchResults": "వెతుకు ఫలితాలు"
+  },
+  "dates": {
+    "today": "ఈరోజు",
+    "yesterday": "నిన్న",
+    "noNotes": "ఈ రోజుకు నోట్లు లేవు",
+    "startWriting": "ఈరోజు మీ మొదటి నోట్ రాయడం ప్రారంభించండి"
+  }
+}

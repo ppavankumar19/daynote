@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "newNote": "New note",
+    "settings": "Settings",
+    "today": "Today",
+    "previousDay": "Previous day",
+    "nextDay": "Next day"
+  },
+  "editor": {
+    "placeholder": "Start writing…",
+    "save": "Save",
+    "saving": "Saving…",
+    "saved": "Saved",
+    "preview": "Preview",
+    "edit": "Edit",
+    "markdownMode": "Markdown",
+    "richTextMode": "Rich text",
+    "language": "Language",
+    "tags": "Tags",
+    "addTag": "Add tag…",
+    "wordCount": "{count, plural, one {# word} other {# words}}"
+  },
+  "search": {
+    "placeholder": "Search notes…",
+    "noResults": "No results found",
+    "results": "{count, plural, one {# result} other {# results}}",
+    "openSearch": "Open search"
+  },
+  "tags": {
+    "filterByTag": "Filter by tag",
+    "clearFilter": "Clear filter",
+    "allNotes": "All notes"
+  },
+  "settings": {
+    "title": "Settings",
+    "theme": "Theme",
+    "themeLight": "Light",
+    "themeDark": "Dark",
+    "themeSystem": "System",
+    "editorMode": "Editor mode",
+    "defaultLanguage": "Default language",
+    "storage": "Storage",
+    "storageUsed": "{bytes} used",
+    "noteCount": "{count, plural, one {# note} other {# notes}}",
+    "clearAll": "Clear all data",
+    "clearAllConfirm": "Are you sure? This will permanently delete all notes and settings.",
+    "export": "Export",
+    "import": "Import",
+    "exportJSON": "Export as JSON",
+    "exportMarkdown": "Export as Markdown",
+    "importFile": "Import from file",
+    "importMerge": "Merge with existing",
+    "importOverwrite": "Overwrite existing"
+  },
+  "ai": {
+    "title": "AI Assistant",
+    "enable": "Enable AI bot",
+    "endpoint": "API endpoint",
+    "model": "Model",
+    "apiKey": "API key",
+    "placeholder": "Ask a question about your notes…",
+    "send": "Send",
+    "consentTitle": "Before enabling the AI assistant",
+    "consentBody": "The AI assistant will send excerpts of your notes (not your full note history) to the API endpoint you configure. Your API key is stored only in your browser and is never sent to DayNote's servers.",
+    "consentAccept": "I understand, enable AI",
+    "consentCancel": "Cancel",
+    "thinking": "Thinking…",
+    "error": "Something went wrong. Check your API settings.",
+    "noAnswer": "I couldn't find an answer in your notes."
+  },
+  "a11y": {
+    "mainContent": "Main content",
+    "sidebar": "Sidebar",
+    "noteEditor": "Note editor",
+    "noteList": "Notes for {date}",
+    "closeDialog": "Close",
+    "saveStatus": "Save status",
+    "searchResults": "Search results"
+  },
+  "dates": {
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "noNotes": "No notes for this day",
+    "startWriting": "Start writing your first note for today"
+  }
+}

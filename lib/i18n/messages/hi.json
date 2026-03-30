@@ -1,0 +1,86 @@
+{
+  "nav": {
+    "newNote": "नया नोट",
+    "settings": "सेटिंग्स",
+    "today": "आज",
+    "previousDay": "पिछला दिन",
+    "nextDay": "अगला दिन"
+  },
+  "editor": {
+    "placeholder": "लिखना शुरू करें…",
+    "save": "सहेजें",
+    "saving": "सहेज रहा है…",
+    "saved": "सहेजा गया",
+    "preview": "पूर्वावलोकन",
+    "edit": "संपादित करें",
+    "markdownMode": "मार्कडाउन",
+    "richTextMode": "रिच टेक्स्ट",
+    "language": "भाषा",
+    "tags": "टैग",
+    "addTag": "टैग जोड़ें…",
+    "wordCount": "{count} शब्द"
+  },
+  "search": {
+    "placeholder": "नोट खोजें…",
+    "noResults": "कोई परिणाम नहीं मिला",
+    "results": "{count} परिणाम",
+    "openSearch": "खोज खोलें"
+  },
+  "tags": {
+    "filterByTag": "टैग से फ़िल्टर करें",
+    "clearFilter": "फ़िल्टर साफ़ करें",
+    "allNotes": "सभी नोट"
+  },
+  "settings": {
+    "title": "सेटिंग्स",
+    "theme": "थीम",
+    "themeLight": "लाइट",
+    "themeDark": "डार्क",
+    "themeSystem": "सिस्टम",
+    "editorMode": "एडिटर मोड",
+    "defaultLanguage": "डिफ़ॉल्ट भाषा",
+    "storage": "स्टोरेज",
+    "storageUsed": "{bytes} उपयोग किया गया",
+    "noteCount": "{count} नोट",
+    "clearAll": "सभी डेटा हटाएं",
+    "clearAllConfirm": "क्या आप सुनिश्चित हैं? यह सभी नोट और सेटिंग्स स्थायी रूप से हटा देगा।",
+    "export": "निर्यात",
+    "import": "आयात",
+    "exportJSON": "JSON के रूप में निर्यात",
+    "exportMarkdown": "Markdown के रूप में निर्यात",
+    "importFile": "फ़ाइल से आयात करें",
+    "importMerge": "मौजूदा के साथ मिलाएं",
+    "importOverwrite": "मौजूदा को ओवरराइट करें"
+  },
+  "ai": {
+    "title": "AI सहायक",
+    "enable": "AI बॉट सक्षम करें",
+    "endpoint": "API एंडपॉइंट",
+    "model": "मॉडल",
+    "apiKey": "API कुंजी",
+    "placeholder": "अपने नोट्स के बारे में सवाल पूछें…",
+    "send": "भेजें",
+    "consentTitle": "AI सहायक सक्षम करने से पहले",
+    "consentBody": "AI सहायक आपके नोट्स के अंश उस API एंडपॉइंट पर भेजेगा जिसे आप कॉन्फ़िगर करते हैं। आपकी API कुंजी केवल आपके ब्राउज़र में संग्रहीत है।",
+    "consentAccept": "समझ गया, AI सक्षम करें",
+    "consentCancel": "रद्द करें",
+    "thinking": "सोच रहा है…",
+    "error": "कुछ गलत हो गया। अपनी API सेटिंग्स जांचें।",
+    "noAnswer": "मैं आपके नोट्स में उत्तर नहीं ढूंढ सका।"
+  },
+  "a11y": {
+    "mainContent": "मुख्य सामग्री",
+    "sidebar": "साइडबार",
+    "noteEditor": "नोट एडिटर",
+    "noteList": "{date} के नोट",
+    "closeDialog": "बंद करें",
+    "saveStatus": "सहेजने की स्थिति",
+    "searchResults": "खोज परिणाम"
+  },
+  "dates": {
+    "today": "आज",
+    "yesterday": "कल",
+    "noNotes": "इस दिन के लिए कोई नोट नहीं",
+    "startWriting": "आज अपना पहला नोट लिखना शुरू करें"
+  }
+}
